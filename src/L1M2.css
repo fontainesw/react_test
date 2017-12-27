@@ -1,0 +1,13 @@
+.info{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.margin{
+    margin: 1em;
+}
+
+.title{
+    font-size: 1.25em;
+    font-weight: bold;
+}

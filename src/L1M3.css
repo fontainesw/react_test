@@ -1,0 +1,63 @@
+.star .times .check .refresh{
+    font-family: Webdings;
+}
+
+
+.star{
+    color: rebeccapurple;
+    font-size: 30pt;
+    font-family: Webdings;
+}
+
+.selected {
+    background-color: #eee;
+    color: #ddd;
+    cursor: not-allowed;
+}
+.used {
+    background-color: #aaddaa;
+    color: #99bb99;
+    cursor: not-allowed;
+}
+
+table{
+    outline-style: solid;
+    width: 100%;
+}
+
+td{
+    width: 33%
+}
+
+span {
+    display: inline-block;
+    margin: 0.5em;
+    text-align: center;
+    background-color: #ccc;
+    width: 24px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.check {
+     color: limegreen;
+    font-family: Webdings;
+ }
+
+.times {
+    color: red;
+    font-family: Webdings;
+}
+
+.btn {
+    font-size: 15pt;
+}
+
+.refresh{
+    color: orangered;
+    font-family: Webdings;
+}
+
+.buttons{
+    outline-style: none;
+}
